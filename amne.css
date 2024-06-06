@@ -1,0 +1,82 @@
+body{
+    background-color: rgba(190, 105, 49, 1);
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+.shapka{
+    font-style: italic;
+}
+
+header{
+    position: sticky;
+    top: 0;
+    z-index: 2024; 
+}
+
+.header-container{
+    background-color: rgba(115, 62, 34, 1);
+    display: flex;
+    justify-content: space-between;
+}
+
+.center{
+    display: flex;
+    align-items: center;
+}
+
+.end{
+    display: flex;
+    align-items: center;
+}
+
+.ikonk{
+    margin: 10px;
+    border-radius: 10px;
+    background-color: rgba(190, 105, 49, 1);
+}
+
+.dangen{
+    margin: 20px auto 20px;
+    display: block;
+    height: 700px;
+    width: 1567px;
+}
+
+.buy{
+    position: absolute;
+    left: 860px;
+    top: 300px;
+    background-color: rgba(162, 114, 62, 1);
+    border-radius: 20px;
+    height: 70px;
+    width: 150px;
+}
+
+.loka{
+    height: 700px;
+    width: 1567px;
+    margin: 20px auto 20px;
+    display: block;
+}
+
+.gg{
+    height: 500px;
+    width: 500px;
+    margin: 20px auto 20px;
+    display: block;
+}
+
+.pol{
+    background-color: rgba(115, 62, 34, 1);
+}
+
+ul{
+    list-style-type: none;
+}
